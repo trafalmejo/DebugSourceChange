@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.debugsourcechange-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/procu.DESKTOP-QK4F6VI/Documents/Unreal Projects/DebugSourceChange/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "DebugSourceChange-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}
